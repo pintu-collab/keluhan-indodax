@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keluhan-indodax.vercel.app/sitemap.xml
